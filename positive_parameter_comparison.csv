@@ -1,0 +1,3 @@
+fit_intercept,positive,Validation MSE,Validation R2
+True,False,0.6203458148098381,-0.0002339800681741
+True,True,0.6203051632082942,-0.00016843418676804056

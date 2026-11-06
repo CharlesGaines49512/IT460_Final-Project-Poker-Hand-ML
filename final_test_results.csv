@@ -1,0 +1,2 @@
+fit_intercept,positive,Training Records,Testing Records,Test MSE,Test R2,Training-Mean Baseline Test MSE
+True,True,25010,1000000,0.5981948456585758,-0.0001386417148210306,0.5981299809809784
